@@ -4,6 +4,7 @@
 ### Контактная информация
 * Telegram: @aleshkin
 * VK: vk.com/aleshkinpaul
+* GitHub: github.com/aleshkinpaul/
 
 ### О себе
 Я закончил университет в 2019 году, на данный момент уже 2,5 года работаю в IT-сфере системным аналитиком. 
